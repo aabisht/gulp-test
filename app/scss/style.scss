@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+ }
+body {
+    text-align: left;
+    background: #fefefe;
+    color: #666;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+    &:hover, &focus {
+        text-decoration: underline;
+    }
+}
+
+@import "header.scss";
+@import "pages/content.scss";

@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  text-align: left;
+  background: #fefefe;
+  color: #666; }
+
+a {
+  text-decoration: none;
+  color: inherit; }
+  a:hover, afocus {
+    text-decoration: underline; }
+
+.header {
+  margin: 0 auto; }
+
+.about {
+  background-color: #fcfcfc; }
